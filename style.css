@@ -6,6 +6,10 @@ body {
 	display: flex;
 }
 
+img:hover{
+	cursor: pointer;
+}
+
 /* You should know what the class does just by looking at the name (the name should be DESCRIPTIVE) */
 .left-column {
 	height: calc(100%/3);
